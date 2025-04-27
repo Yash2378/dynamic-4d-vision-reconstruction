@@ -1,3 +1,6 @@
+> "We are teaching machines not just to see — but to perceive, predict, and understand the living world."
+> — *Dynamic 4D Vision Project*
+
 # Dynamic 4D Vision Reconstruction
 
 🚀 **Project Mission:**  
