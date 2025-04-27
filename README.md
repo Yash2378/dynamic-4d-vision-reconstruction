@@ -40,6 +40,7 @@ Build systems that can perceive, understand, and model the real, moving world �
 
 ## 📦 Repo Structure
 
+```
 dynamic-4d-vision-reconstruction/
 │
 ├── README.md          # High-level description of project
@@ -49,6 +50,7 @@ dynamic-4d-vision-reconstruction/
 ├── models/            # Core models (NeRF, GS, etc.)
 ├── outputs/           # Renders, screenshots, gifs
 └── resources/         # Papers, tutorials, links
+```
 
 ---
 
